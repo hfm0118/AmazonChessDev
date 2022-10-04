@@ -1,3 +1,0 @@
-Language=Simplified_Chinese
-PlayCG=true
-Difficulty=hard
