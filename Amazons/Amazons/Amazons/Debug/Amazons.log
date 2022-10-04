@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\.university\projects\amazons\amazons\amazons\main.cpp(116): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\.university\projects\amazons\amazons\amazons\main.cpp(117): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\.university\projects\amazons\amazons\amazons\main.cpp(353): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\.university\projects\amazons\amazons\amazons\main.cpp(383): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\.university\projects\amazons\amazons\amazons\main.cpp(388): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\.university\projects\amazons\amazons\amazons\main.cpp(393): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\.university\projects\amazons\amazons\amazons\main.cpp(920): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Amazons.vcxproj -> D:\.University\Projects\Amazons\Amazons\Debug\Amazons.exe
